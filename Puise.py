@@ -27,3 +27,4 @@ while True:
         break
     else:
         print("Неизвестная команда")
+        print()
